@@ -39,7 +39,7 @@
 
 # Input sentence from the user
 # sentence = input("enter a sentence: ")
-
+ 
 # Count the words in the sentence
 # word_count = count_words(sentence)
 
